@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "917253099876",
+    "firebase_url": "https://messager-6996d.firebaseio.com",
+    "project_id": "messager-6996d",
+    "storage_bucket": "messager-6996d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917253099876:android:7b09d1921829fa9d",
+        "android_client_info": {
+          "package_name": "com.chenkuo.messager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917253099876-chrtcr96pi27rj3tctcvsu91f6io0k7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlnWe45sC71oQxiZiXlC4F4c8r9qeSeI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
