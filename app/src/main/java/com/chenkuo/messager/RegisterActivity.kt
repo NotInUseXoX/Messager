@@ -109,6 +109,5 @@ class RegisterActivity : AppCompatActivity() {
                     Log.d("Register","Fail to save data to firebase database: ${it.message}")
                 }
     }
-}
 
-class User(val uid: String, val username: String, val profileImageUrl: String)
+}

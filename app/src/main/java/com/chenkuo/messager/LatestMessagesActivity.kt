@@ -38,7 +38,7 @@ class LatestMessagesActivity : AppCompatActivity() {
                 intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TASK.or(Intent.FLAG_ACTIVITY_NEW_TASK)
                 startActivity(intent)
             }
-            R.id.menu_sign_out -> {
+            R.id.menu_new_messages -> {
                 val intent = Intent(this, NewMessageActivity::class.java)
                 startActivity(intent)
             }
